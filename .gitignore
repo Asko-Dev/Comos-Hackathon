@@ -1,0 +1,7 @@
+artifacts
+.DS_Store
+.idea
+node_modules
+coverage
+coverage.json
+cache
